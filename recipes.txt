@@ -6,5 +6,7 @@ kheer
 paneer
 chicken paneer
 
+beans
+pizza
 
 thank you :)
